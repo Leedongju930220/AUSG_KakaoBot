@@ -27,8 +27,8 @@ $ git clone https://github.com/Exubient/AUSG_KakaoBot
 * 콘솔에 접근
 * Security Groups
 * Inbound -> Edit  -> Add Rules Button -> custom -> 8000, 8080 열기 -> save
+## 참고명령어
 
-## Django
 * Bash에서 상위 디렉토리 이동
 ```bash
 $ cd AUSG_KakaoBot 
@@ -37,6 +37,9 @@ $ cd AUSG_KakaoBot
 ```bash
 $ cd .. 
 ```
+
+## Django
+
 
 * requirement 설정
 ```bash
